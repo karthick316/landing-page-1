@@ -1,9 +1,7 @@
 html {
     background-color: #FEFCFB;
 }
- body > * pre ,p {
-    font-family: 'POppins';
- }
+
 
 header {
      display: flex;
